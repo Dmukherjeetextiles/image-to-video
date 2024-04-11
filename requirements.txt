@@ -1,4 +1,5 @@
 streamlit
+pytorch
 torch
 torchvision
 imageio
