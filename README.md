@@ -1,7 +1,7 @@
 # Generative Models by Stability AI
 
 ![sample1](assets/000.jpg)
-
+A streamlit [demonstration](https://text-to-video.streamlit.app/)
 ## News
 
 **March 18, 2024**
