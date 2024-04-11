@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+imageio
+numpy
+Pillow
+regex
+diffusers
